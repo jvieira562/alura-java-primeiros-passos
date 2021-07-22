@@ -1,6 +1,6 @@
 package exercicios;
 
-public class TestaWhile {
+public class TestaWhile  {
 
 	public static void main(String[] args) {
 
