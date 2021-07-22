@@ -1,6 +1,6 @@
 package exercicios;
 
-public class TestaConversao {
+public class TestaConversao  {
 
 	public static void main(String[] args) {
 
