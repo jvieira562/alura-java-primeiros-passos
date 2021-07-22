@@ -1,6 +1,6 @@
 package exercicios;
 
-public class TestaEscopo {
+public class TestaEscopo  {
 
 	public static void main(String[] args) {
 		System.out.println("Teste de condicionais");
