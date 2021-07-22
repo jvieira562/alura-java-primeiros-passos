@@ -1,6 +1,6 @@
 package exercicios;
 
-public class TesteIR2 {
+public class TesteIR2  {
 
 	public static void main(String[] args) {
 
