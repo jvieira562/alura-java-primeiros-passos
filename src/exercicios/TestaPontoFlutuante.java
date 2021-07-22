@@ -1,6 +1,6 @@
 package exercicios;
 
-public class TestaPontoFlutuante {
+public class TestaPontoFlutuante  {
 
 	public static void main(String[] args) {
 
