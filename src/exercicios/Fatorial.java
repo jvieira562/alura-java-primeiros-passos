@@ -1,6 +1,6 @@
 package exercicios;
 
-public class Fatorial {
+public class Fatorial  {
 	public static void main(String[] args) {
 		int fatorial = 1;
 		for (int i = 1; i < 11; i++) {
